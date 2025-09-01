@@ -10,7 +10,7 @@ The dataset is scraped from [turbo.az](https://turbo.az).
 - **Yeni** – New or used flag (1 = new, 0 = used)  
 - **Mühərrik** – Engine volume , HorsePower , Fuel type  
 - **Yürüş** – Mileage (km)  
-- **Ötürücü** – Transmission (Arxa, Tam, Ön,)  
+- **Ötürücü** – Transmission (Arxa, Tam, Ön)  
 - **price** – Car price
 - **Sürətlər qutusu** – Gearbox type (Automatic, Manual, etc.)  
 - **Rəng** – Color  
